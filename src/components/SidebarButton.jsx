@@ -29,7 +29,7 @@ SidebarButton.propTypes = {
 // Usage in Sidebar
 const Sidebar = () => {
   return (
-    <div className="w-64 bg-white text-black p-4 flex flex-col justify-between min-h-screen">
+    <div className="w-64 bg-gray-200 text-black p-4 flex flex-col justify-between min-h-screen">
       <div>
         <div className="bg-black text-white p-4 rounded text-center mb-4">
           <h2 className="text-2xl font-bold">LOGO</h2>
